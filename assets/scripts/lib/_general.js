@@ -12,7 +12,7 @@ function lazy(className, time) {
 }
 
 jQuery(document).ready(function($) {
-    
+
     // Lazy Load //
 
     lazy('img-load', 2000);
