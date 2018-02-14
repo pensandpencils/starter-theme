@@ -60,3 +60,9 @@ class StarterSite extends TimberSite {
 }
 
 new StarterSite();
+
+//require get_template_directory() . '/inc/enqueue.php';
+//require get_template_directory() . '/inc/custom_post_types.php';
+//require get_template_directory() . '/inc/extras.php';
+//require get_template_directory() . '/inc/image-sizes.php';
+//require get_template_directory() . '/inc/shortcodes.php';
